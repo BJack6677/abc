@@ -1,1 +1,8 @@
-222222222222
+public function getData(){
+	$abc = '';
+	if(0){
+		echo '1';
+	}else{
+		echo '0';
+	}
+}
