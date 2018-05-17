@@ -7,3 +7,5 @@ public function getData(){
 		echo '0';xxx
 	}
 }
+
+aaaaaaaaaaaaaaaaaaaaa
