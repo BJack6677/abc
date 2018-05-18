@@ -7,4 +7,6 @@ public function getData(){
 		echo '0';xxx
 	}
 }
+1111
+22
 
