@@ -1,11 +1,13 @@
 public function getData(){
 	$abc = '';
-	if(1){
+	$cc_id = 1;
+	if(1 && $cc_id){
 		echo '1';dddd
 	}else{
 		echo '0';
 		echo '0';xxx
 	}
 }
-
-
+333333
+444444
+555555
