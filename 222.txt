@@ -1,7 +1,9 @@
 public function getData(){
 	$abc = '';
-	if(1){
+	$op_id = 1;
+	if(1 && $op_id){
 		echo '1';dddd
+		test
 	}else{
 		echo '0';
 		echo '0';xxx
