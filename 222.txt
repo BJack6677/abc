@@ -5,11 +5,14 @@ public function getData(){
 	if(1 && $cc_id){
 		echo '1';dddd
 		test
+		if(2){
+			echo '22222222';
+		}
 	}else{
 		echo '0';
-		echo '0';xxx
+		echo '1';xxx
 	}
 }
 333333
-444444
+442244
 555555
